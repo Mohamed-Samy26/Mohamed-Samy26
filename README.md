@@ -1,4 +1,4 @@
-<h1 align ="center"> Hi there 👋, I am Mohamed Samy</h1>
+<!-- <h1 align ="center"> Hi there 👋, I am Mohamed Samy</h1>
 
 <br>
 
@@ -44,3 +44,4 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Samy26" alt="Mohamed-Samy26" /></a> </p>
 
 
+ -->
