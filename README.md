@@ -21,7 +21,7 @@
 </p> -->
 
 
-
+<!-- 
 <p align="center">
  <a href="https://github.com/Mohamed-Samy26">
    <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Samy26&count_private=true&show_icons=true" alt="Mohamed-Samy26" />
@@ -44,4 +44,4 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mohamed-Samy26" alt="Mohamed-Samy26" /></a> </p>
 
 
- -->
+ --> 
