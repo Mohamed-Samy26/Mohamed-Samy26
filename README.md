@@ -2,23 +2,46 @@
 
 <br>
 
-<h2> Computer science student and Android developer</h2>
+<h2> Computer science student, Backend engineer and Android developer</h2>
 
 <br>
 
-- 🌱 I’m currently learning **Android development and machine learning**
-- 📫 How to reach me: **https://www.linkedin.com/in/mohamad-sami/**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohamed-Samy26&label=Profile%20views&color=0e75b6&style=flat" alt="kareemhussen" /> </p>
+
+- 🌱 I’m currently learning **Data intensive systems design and Deep learning**
+
+- 📫 How to reach me: **https://www.linkedin.com/in/mohamad-sami/** or **mo.samy2613@gmail.com**
+
+- 👯 I’m looking to collaborate on **Big Project**
+
+<!--- - 🤝 I’m looking for help with **Finding internship or part-time job** -->
+
+- 👨‍💻 All of my projects are available at [https://github.com/Mohamed-Samy26?tab=repositories&type=source](https://github.com/Mohamed-Samy26?tab=repositories&type=source)
+
+- 📝 I regularly write articles on [https://www.linkedin.com/in/mohamad-sami/](https://www.linkedin.com/in/mohamad-sami/)
+
+- 💬 Ask me about **Back-end and Android development**
+
+- 📄 Know about my experiences  <a href="https://www.canva.com/design/DAE_Zewz5MU/Z1fDjh3zg2b7F3-N4ROjSA/view?utm_content=DAE_Zewz5MU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/654/654059.png" alt="" height="40" width="40" /></a>
+
 
 <!-- <p>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
 
+
+
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </p> -->
+ 
+ <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="[https://www.linkedin.com/in/mohamad-sami/](https://www.linkedin.com/in/mohamad-sami/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamad-sami/" height="30" width="40" /></a>
+<a href="https://discord.gg/Kimo#3542" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kimo#3542" height="30" width="40" /></a>
+</p>
  
 <p align="center">
  <a href="https://github.com/Mohamed-Samy26">
@@ -27,7 +50,7 @@
   </a>
 </p>
 
-<p align = "center">
+<p>
   <a href="https://github.com/Mohamed-Samy26">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Samy26&hide=c&layout=compact" alt="Mohamed-Samy26" /></a>
   </p>
