@@ -14,6 +14,8 @@
 
 - 👯 I’m looking to collaborate on **Big Project**
 
+- ⚒️ Currently working on a simple Operating system and DataMining-Algorithms-ToolKit Python package 
+
 <!--- - 🤝 I’m looking for help with **Finding internship or part-time job** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mohamed-Samy26?tab=repositories&type=source](https://github.com/Mohamed-Samy26?tab=repositories&type=source)
@@ -50,7 +52,7 @@
   </a>
 </p>
 
-<p>
+<p  align="center">
   <a href="https://github.com/Mohamed-Samy26">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Samy26&hide=c&layout=compact" alt="Mohamed-Samy26" /></a>
   </p>
