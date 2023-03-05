@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **Back-end and Android development**
 
-- 📄 Know about my experiences  <a href="https://www.canva.com/design/DAE_Zewz5MU/Z1fDjh3zg2b7F3-N4ROjSA/view?utm_content=DAE_Zewz5MU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/654/654059.png" alt="" height="40" width="40" /></a>
+- 📄 Know about my experiences  <a href="https://www.canva.com/design/DAE_Zewz5MU/laieA7Eo6AfInzGJaEAATQ/view?utm_content=DAE_Zewz5MU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/654/654059.png" alt="" height="40" width="40" /></a>
 
 
 <!-- <p>
