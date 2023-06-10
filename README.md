@@ -2,7 +2,7 @@
 
 <br>
 
-<h2> Computer science student, Backend engineer and Android developer</h2>
+<h2> Computer science student, Backend engineer</h2>
 
 <br>
 
