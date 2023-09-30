@@ -6,11 +6,11 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohamed-Samy26&label=Profile%20views&color=0e75b6&style=flat" alt="kareemhussen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohamed-Samy26&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed-Samy" /> </p>
 
 - 🌱 I’m currently learning **Data intensive systems design and Deep learning**
 
-- 📫 How to reach me: **https://www.linkedin.com/in/mohamad-sami/** or **mo.samy2613@gmail.com**
+- 📫 How to reach me: **https://www.linkedin.com/in/mohamad-sami/**
 
 - 👯 I’m looking to collaborate on **Big Project**
 
@@ -22,7 +22,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mohamad-sami/](https://www.linkedin.com/in/mohamad-sami/)
 
-- 💬 Ask me about **Back-end and Android development**
+- 💬 Ask me about **Back-end and Dev Ops**
 
 - 📄 Know about my experiences  <a href="https://www.canva.com/design/DAE_Zewz5MU/laieA7Eo6AfInzGJaEAATQ/view?utm_content=DAE_Zewz5MU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/654/654059.png" alt="" height="40" width="40" /></a>
 
